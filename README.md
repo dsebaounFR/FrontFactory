@@ -1,2 +1,0 @@
-# FrontFactory
-Created with CodeSandbox
